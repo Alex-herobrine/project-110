@@ -1,0 +1,48 @@
+body
+{
+font-family: 'Festive', cursive;
+background: white;
+}
+
+.header_div
+{
+    background: blueviolet;
+    color:black;    
+}
+
+.header_div img
+{
+width: 100px;
+}
+
+.main_div
+{
+background: beige;
+padding: 10px;
+margin-top: 15px;
+border: 3px solid black;
+}
+
+.main_div label
+{
+    background: beige;
+    padding: 10px;
+    margin-bottom: 0px;
+    width: 310px;
+    box-shadow: 5px 5px 18px white;
+}
+
+#result,#camera
+{
+    height: 300px;
+    width: 310px;
+    box-shadow: 5px 5px 18px white;
+    border: 2px solid black;
+}
+
+.main_div button
+{
+width: 310px;
+box-shadow: 5px 5px 18px white;
+font-size: 16px;
+}
